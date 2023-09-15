@@ -1,5 +1,5 @@
 # Airbnb Webscraper (Project name: Doorbll)
-A Python script to web scrape Airbnb property listing data for a specific location using Airbnb's mapping APIs. It can be used to collect data on Airbnb listings in a given area for further analysis or research purposes.
+A Python script to web scrape Airbnb property listing data for a specific location using Airbnb's mapping APIs. It can be used to collect data on Airbnb listings in a given area for further analysis or research purposes. Tested working as of September 2023.
 
 ## Prerequisites
 Written for Windows, the 'os' module is only required for saving files to HDD and can be easily adapted for Linux. Uses the following dependencies:
